@@ -1,0 +1,197 @@
+================================================================================
+                    IOGP LIFE-SAVING RULES – REFERENCE GUIDE
+                          For SIFWatch NLP Engine
+================================================================================
+
+These are the 9 official IOGP Life-Saving Rules used in the oil & gas industry.
+Each rule includes:
+- Rule Name & ID
+- Description (When does this rule apply?)
+- Keywords (Words that appear in reports related to this rule)
+- Example Phrases (Realistic report snippets)
+
+================================================================================
+
+RULE 1: ENERGY ISOLATION
+--------------------------------------------------------------------------------
+Description:
+Failure to isolate hazardous energy sources (electrical, mechanical, chemical, 
+thermal, or pressure) before maintenance, repair, or cleaning activities.
+
+Keywords:
+lockout, tagout, isolation, energy source, de-energize, electrical panel, 
+breaker, valve closed, steam, pressure, pneumatic, hydraulic, stored energy
+
+Example Phrases:
+- "failed to lock out"
+- "did not isolate the electrical panel"
+- "left the valve open"
+- "didn't de-energize before maintenance"
+- "no tagout on the breaker"
+- "bypassed the safety lock"
+
+================================================================================
+
+RULE 2: HOT WORK
+--------------------------------------------------------------------------------
+Description:
+Any work involving open flames, sparks, heat sources, or welding/cutting/grinding 
+activities near flammable materials, gas lines, or explosive atmospheres.
+
+Keywords:
+welding, grinding, cutting, soldering, spark, flame, ignition source, gas leak, 
+flammable, explosive, hot work permit, torch, brazing, arc welding
+
+Example Phrases:
+- "welding near a gas pipe"
+- "grinding sparks hit flammable material"
+- "cutting pipe without fire watch"
+- "open flame near gas leak"
+- "hot work without a permit"
+- "ignition source present in hazardous area"
+
+================================================================================
+
+RULE 3: CONFINED SPACE
+--------------------------------------------------------------------------------
+Description:
+Entering or working in a confined space (tank, vessel, silo, manhole, sewer, pit)
+without proper gas testing, ventilation, atmospheric monitoring, or entry permit.
+
+Keywords:
+confined space, tank, vessel, silo, manhole, sewer, pit, gas test, oxygen level, 
+ventilation, atmosphere, entry permit, toxic gas, nitrogen, hydrogen sulfide
+
+Example Phrases:
+- "entered a tank without gas testing"
+- "no oxygen check before entry"
+- "did not test the atmosphere"
+- "confined space without a permit"
+- "no ventilation in the vessel"
+- "H2S detected during entry"
+
+================================================================================
+
+RULE 4: LINE OF FIRE
+--------------------------------------------------------------------------------
+Description:
+Being in the path of moving equipment, vehicles, suspended loads, pressure 
+releases, or any hazard where the worker is exposed to a potential strike or 
+impact.
+
+Keywords:
+line of fire, moving equipment, crane load, pressure release, vehicle path, 
+trajectory, caught between, swing radius, blind spot, heavy load, dropped object
+
+Example Phrases:
+- "standing under a suspended load"
+- "in the path of moving equipment"
+- "crane lifting above workers"
+- "caught between two objects"
+- "no exclusion zone around the crane"
+- "moved into the danger zone"
+
+================================================================================
+
+RULE 5: LIFTING OPERATIONS
+--------------------------------------------------------------------------------
+Description:
+Unsafe lifting practices including overloading cranes/hoists, unstable loads, 
+improper rigging, defective slings, or lack of hand signals and tag lines.
+
+Keywords:
+lifting, crane, hoist, rigging, sling, chain, shackle, spreader bar, overload, 
+unstable load, hand signals, load capacity, tag line
+
+Example Phrases:
+- "sling broke during lift"
+- "overloaded the crane"
+- "improper rigging caused load swing"
+- "lifted without a tag line"
+- "load swung dangerously"
+- "exceeded the load capacity"
+
+================================================================================
+
+RULE 6: PERMIT TO WORK
+--------------------------------------------------------------------------------
+Description:
+Work carried out without a valid work permit, outside the scope of the permit, 
+or after the permit has expired. Includes non-routine maintenance and high-risk 
+activities.
+
+Keywords:
+permit, authorization, work order, approval, written permit, without permit, 
+expired permit, scope change, non-routine, authority to work
+
+Example Phrases:
+- "started work without a permit"
+- "permit had expired"
+- "worked outside the permit scope"
+- "no written authorization"
+- "bypassed the permit system"
+- "conducted non-routine work without approval"
+
+================================================================================
+
+RULE 7: SAFE DRIVING
+--------------------------------------------------------------------------------
+Description:
+Vehicle-related incidents including speeding, distracted driving, lack of 
+seatbelt, poor road conditions, driver fatigue, or lack of defensive driving.
+
+Keywords:
+driving, vehicle, truck, transport, crash, rollover, speeding, distracted, 
+road condition, mud, rain, fog, driver fatigue, seatbelt, collision, head-on
+
+Example Phrases:
+- "lost control on a muddy road"
+- "driver fell asleep at the wheel"
+- "speeding on a curve"
+- "no seatbelt worn"
+- "distracted driver caused collision"
+- "vehicle rolled over on the highway"
+
+================================================================================
+
+RULE 8: WORKING AT HEIGHT
+--------------------------------------------------------------------------------
+Description:
+Falls from height due to lack of fall protection, improper use of harnesses, 
+defective scaffolding, ladders, or guardrails.
+
+Keywords:
+height, scaffolding, ladder, harness, fall protection, guardrail, elevated work, 
+climbing, slip, work platform, fall arrest, safety net
+
+Example Phrases:
+- "fell from a ladder"
+- "no harness worn"
+- "scaffolding collapsed"
+- "working without guardrails"
+- "climbed without fall protection"
+- "fell 10 feet from an elevated platform"
+
+================================================================================
+
+RULE 9: MANAGEMENT OF CHANGE
+--------------------------------------------------------------------------------
+Description:
+Unsafe or unapproved changes to procedures, equipment, personnel, or operating 
+conditions without a proper risk assessment, revalidation, or authorization.
+
+Keywords:
+change, procedure, modification, deviation, new equipment, unapproved change, 
+risk assessment, revalidation, temporary change, personnel change, MOC
+
+Example Phrases:
+- "changed the procedure without review"
+- "modified equipment without authorization"
+- "unapproved deviation from standard"
+- "new process without risk assessment"
+- "bypassed management of change"
+- "temporary change became permanent"
+
+================================================================================
+END OF REFERENCE
+================================================================================
